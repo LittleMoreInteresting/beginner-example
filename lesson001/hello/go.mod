@@ -1,4 +1,4 @@
-module beginner-example/hello
+module beginner-example/lesson001/hello
 
 go 1.18
 
